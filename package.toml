@@ -1,0 +1,19 @@
+[[plugin.deps]]
+use = "yazi-rs/plugins:full-border"
+rev = "55bf699"
+hash = "1f3dad061209081a6b04dd6ff2cb06c7"
+
+[[plugin.deps]]
+use = "yazi-rs/plugins:mactag"
+rev = "55bf699"
+hash = "f4ee8d1a119fc869ffcd7e8a71b1469e"
+
+[[plugin.deps]]
+use = "ahkohd/eza-preview"
+rev = "6575a9a"
+hash = "72355a6c8b7c8de6ed4dda0f98f86fee"
+
+[[flavor.deps]]
+use = "yazi-rs/flavors:catppuccin-mocha"
+rev = "02f3fc6"
+hash = "2ac87e1b3a61f5887472899e86535d29"
